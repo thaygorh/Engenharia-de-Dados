@@ -377,4 +377,5 @@ Como limitações do MVP, destaca-se a dependência de dados públicos. Como tra
 
 ---
 
-**Autor:** Thaygor Gonçalves
+Autor: Thaygor Henrique Gonçalves
+Data: 21/12/2025
