@@ -379,3 +379,17 @@ Como limitações do MVP, destaca-se a dependência de dados públicos. Como tra
 
 Autor: Thaygor Henrique Gonçalves
 Data: 21/12/2025
+
+---
+
+## Uso e autoria
+
+Este projeto foi desenvolvido para fins de estudo e portfólio.
+
+O código está disponível para fins educacionais e pode ser utilizado como referência.
+
+Caso utilize este material, por favor, atribua o devido crédito ao autor original:
+
+GitHub: https://github.com/thaygorh/Engenharia-de-Dados
+
+LinkedIn: https://www.linkedin.com/in/thaygorh
