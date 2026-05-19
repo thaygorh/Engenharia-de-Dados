@@ -22,7 +22,7 @@ Para a implementação do pipeline de dados deste MVP, foi utilizada a plataform
 
 A plataforma foi empregada em todas as etapas do trabalho, incluindo coleta, transformação, carga e análise dos dados, possibilitando a construção de pipelines de ETL e a execução de consultas analíticas em SQL, conforme os objetivos definidos.
 
-Os dados utilizados neste MVP foram obtidos a partir da plataforma **Kaggle**, por meio do dataset [**Brazilian Stock Market**](https://www.kaggle.com/datasets/andrewmvd/brazilian-stock-market).
+Os dados utilizados neste MVP foram obtidos a partir da plataforma **Kaggle**, por meio do dataset [Brazilian Stock Market](https://www.kaggle.com/datasets/andrewmvd/brazilian-stock-market).
 
 Trata-se de um dataset de uso público para fins educacionais e de pesquisa.
 
