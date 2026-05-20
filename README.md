@@ -1,4 +1,4 @@
-# MVP Engenharia de Dados
+# MVP Engenharia de Dados - Construção de Data Warehouse Analítico para Dados da B3
 
 ## Objetivo
 
